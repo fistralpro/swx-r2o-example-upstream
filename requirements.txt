@@ -1,0 +1,2 @@
+# For demo purposes we'll pull in peppercorn (python 3.7)
+peppercorn==0.6
